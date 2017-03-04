@@ -1,3 +1,20 @@
+*{
+    border-radius:0 !important;
+}
+
 body{
-    background-color:salmon;
+    background-color:violet;
+}
+
+.sideBorders {
+    border-left:1px solid black;
+    border-right:1px solid black;
+}
+
+#scienceSpan{
+    font-weight: bold;
+}
+
+#magicSpan {
+    color:green;
 }
